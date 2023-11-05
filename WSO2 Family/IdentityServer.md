@@ -5,7 +5,7 @@ How to Build and Run WSO2 Identity Server (wso2-is)
 1. Install [Oracle JDK](https://github.com/pooyanazari/EnterpriseInfrastructure/blob/main/JavaFamily/InstallJDK.md) __11.0.14__ on your system
 2. Install [Apache Maven](https://github.com/pooyanazari/EnterpriseInfrastructure/blob/main/JavaFamily/InstallMaven.md) __3.9.5+__ on your system
 3. Download and Extract [WSO2-IS 6.1.0+](https://github.com/wso2/product-is/releases/tag/v6.1.0)
-4. Run one of the following maven commands from product-is-X.Y.Z directory
+4. Run one of the following maven commands from `product-is-X.Y.Z` directory
 ```bash
 $ mvn clean package
 # or
