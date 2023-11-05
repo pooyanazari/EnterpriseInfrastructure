@@ -2,7 +2,7 @@
 How to Set up Maven
 
 ### On Linux
-1. [Have a JDK installation on your system](https://github.com/pooyanazari/EnterpriseInfrastructure/JavaFamily/InstallJDK.md)
+1. [Have a JDK installation on your system](https://github.com/pooyanazari/EnterpriseInfrastructure/blob/main/JavaFamily/InstallJDK.md)
 2. Download and Extract Maven
 3. In your home directory, open the BASHRC file(~/.bashrc)
 4. Add the following two lines at the bottom of the file
